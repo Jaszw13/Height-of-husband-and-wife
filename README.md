@@ -1,4 +1,4 @@
-# MATH 3424 Problem 10: Heights of Husband and Wife Analysis
+Heights of Husband and Wife Analysis
 This R script analyzes the relationship between husbands' and wives' heights using covariance, correlation, and simple linear regression.
 
 ## 📁 Project Structure
