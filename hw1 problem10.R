@@ -1,5 +1,5 @@
 height_data <- read.table(
-  file = "/Users/js/Desktop/hkust/math 3424/Heights of husband and wife.txt",
+  file = "THE LOCATION OF THE DATASET",
   header = TRUE,                 
   sep = "\t",                   
   stringsAsFactors = FALSE        
