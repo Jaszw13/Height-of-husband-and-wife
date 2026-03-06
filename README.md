@@ -51,4 +51,3 @@ When you run the script, you should see:
 ## 📌 Notes
 - The script uses `stringsAsFactors = FALSE` for data import (compatible with R ≥ 4.0).
 - All numerical results are rounded to 3 decimal places for readability.
-- The dataset path in `read.table()` is set to `/Users/js/Desktop/hkust/math 3424/Heights of husband and wife.txt`—update this to match your local file path.
